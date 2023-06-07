@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore node modules
+node_modules/
+
+# Ignore distribution folder
+dist/
+
+# Ignore package-lock.json (optional)
+package-lock.json
